@@ -9,7 +9,7 @@ alignment: Chaotic Neutral
 >
 > | **Name**       | Za'rek                                          |
 > | -------------- | ----------------------------------------------- |
-> | **Race**       | Drow                                            |
+> | **Race**       | Drow Elf                                        |
 > | **Class**      | Wizard                                          |
 > | **Background** | Sage                                            |
 > | **Alignment**  | Chaotic Neutral                                 |
