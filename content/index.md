@@ -13,7 +13,6 @@ Welcome to the wiki. This is the front door - everything else links out from her
 - [[Quest Log]] - what we're currently doing and what we've finished
 - [[Mysteries and Plot Threads]] - the running list of "wait, what was that about?"
 - [[Notable Items and Equipment]] - who has what
-- 📓 [[README - How This Wiki Works]] - read this once, then ignore it
 
 ## The Party
 | Character                 | Player Note       | Page           |
@@ -25,8 +24,6 @@ Welcome to the wiki. This is the front door - everything else links out from her
 | Precious "Dart" Mcopolus  | Goliath Monk      | [[Precious]]   |
 | Althea                    | Human Warlock     | [[Althea]]     |
 | Apex ("The Badest Chief") | Tiefling Warlock  | [[Apex]]       |
-
-Also riding with us: [[Companions and Pets|Joblin, Chance-Martin, Adonkey, and Tesco]], and as of Session 6, [[Tarhun Turneron]].
 
 ## Session Log
 - [[Session 01]] - The Hag's Mole burns; goblins raid Wilheim
