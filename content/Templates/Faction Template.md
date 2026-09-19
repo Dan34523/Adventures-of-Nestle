@@ -1,5 +1,6 @@
 ---
-tags: [faction]
+tags:
+  - faction
 ---
 
 > [!infobox]

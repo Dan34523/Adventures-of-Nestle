@@ -1,6 +1,7 @@
 ---
-tags: [item]
-owner: 
+tags:
+  - item
+owner:
 ---
 
 > [!infobox]

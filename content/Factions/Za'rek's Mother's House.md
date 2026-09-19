@@ -1,6 +1,6 @@
 ---
 tags: [faction]
-draft: True
+draft: true
 ---
 
 > [!infobox]

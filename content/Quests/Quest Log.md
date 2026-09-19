@@ -7,12 +7,11 @@ tags: [quest, index]
 ## Active
 
 > [!infobox]
->
-> | **Quest**    | Find Prince Zircon                                                                                                                    |
-> | ------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
-> | **Given By** | [[King Heliodar]]                                                                                                                     |
-> | **Status**   | Active, just accepted                                                                                                                 |
-> | **Reward**   | Transport, rations, and necessities funded by the King (negotiated down from a much larger offer of asylum/titles/land by [[Za'rek]]) |
+> **Quest** | Find Prince Zircon
+> ---|---
+> **Given By** | [[King Heliodar]]
+> **Status** | Active, just accepted
+> **Reward** | Asylum, titles, land, transport, rations, and necessities funded by the King 
 
 **Objective:** Discreetly find and return **[[Prince Zircon]]**, the missing heir to Beronay, who disappeared with a detachment and hasn't returned. Only [[King Heliodar]], [[Princess Sphene]], the crownsguards present, and [[Prince Rico LaRoche]] know the party has been asked. Not a combat mission by design - search and rescue only.
 

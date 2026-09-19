@@ -17,5 +17,5 @@ The Wilheim chapter is led by **[[Aethswold Telemon]]**, with **[[Ria Nostakis]]
 ## Relationship to the Party
 Complicated. The party rescued Telemon and other captured townsfolk, but also has direct, personal reasons ([[Morrigan]]'s history) to distrust the institution itself.
 
-## Session Appearances
-- [[Session 01]] · [[Session 02]] · [[Session 03]]
+## Session Appearances 
+- [[Session 01]] · [[Session 02]] · [[Session 03]] · [[Session 08]]
