@@ -37,7 +37,3 @@ An index of the party's significant gear. Add a new `##` section any time someon
 ## Bag of Holding
 
 **Owner:** The party (carried by [[Morrigan]]). Used to store payment and, memorably, to smuggle [[Morrigan]] herself out of a locked room at the Ball of the Earth Father.
-
-## Scroll of Comprehend Languages
-
-**Used by:** [[Za'rek]] and [[Zeal Cross]]. Found in the Wilheim dungeon; learned by Za'rek after gathering the (mostly ruined) material components.

@@ -22,7 +22,7 @@ Performed the ritual (melting gold into a hatching dragon egg) that created the 
 
 ## The Sparing of Harla
 
-After the fight, she surrendered and told the party everything, including her scars from the church's torture. The party was split: [[Tuff]] and [[Zeal Cross]] wanted her dead; [[Precious]] and [[Za'rek]] argued to spare her (Za'rek admitted he'd likely have done the same in her place); [[Morrigan]], recognising her own history with the Martyress, cast the deciding vote to let her live and gave her a Potion of Healing. She showed Morrigan her scars in return, and was quietly awed to learn what Morrigan actually is.
+After the fight, she surrendered and told the party everything, including her scars from the church's torture. The party was split: [[Tuff]] and [[Zeal Cross]] wanted her dead; [[Precious]] and [[Za'rek]] argued to spare her; [[Morrigan]], recognising her own history with the Martyress, cast the deciding vote to let her live and gave her a Potion of Healing. She showed Morrigan her scars in return, and was quietly awed to learn what Morrigan actually is.
 
 She revealed the **Abjuration Crystal**'s true purpose - blocking [[Lolth]]'s influence over the ritual site, since Lolth is territorial about other gods (even the Chroma Queen) operating in "her" domain - then helped deactivate it so the party could take the treasure, in exchange for half. Left the region afterward, hoping never to see the party again.
 

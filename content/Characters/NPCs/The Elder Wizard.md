@@ -3,6 +3,7 @@ tags: [npc]
 status: alive
 race: Drow
 location: The Underdark
+draft: true
 ---
 
 > [!infobox]
