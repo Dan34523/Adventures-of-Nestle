@@ -14,7 +14,7 @@ faction:
 > **Status** | Alive
 
 ## Overview
-Aging, handsome ("a silver fox"), father of **[[Princess Sphene]]**, **[[Prince Zircon]]**, and a younger, immature second son, Prince Tanzan. Host of the Marriage Mart - nine balls held in honour of the nine Gods, intended to find Princess Sphene a husband.
+Aging, handsome ("a silver fox"), father of **[[Princess Sphene]]**, **[[Prince Zircon]]**, and Prince Tanzan. Host of the Marriage Mart - nine balls held in honour of the nine Gods, intended to find Princess Sphene a husband.
 
 Visibly furious after [[Apex]]'s disastrous dance with his daughter at the Ball of the Earth Father ([[Session 08]]).
 
