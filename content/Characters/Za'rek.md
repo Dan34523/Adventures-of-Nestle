@@ -15,17 +15,12 @@ alignment: Chaotic Neutral
 > **Alignment** | Chaotic Neutral
 > **Sex** | Male
 > **Height** | 5'11"
-> **Hair** | White hair with a slight wave, combed backwards
-> **Facial Hair** | Short beard
-> **Build** | Average / moderately built
 
 ## Overview
 
 A drow wizard, and the only one of his kind most people in Beronay have ever met - a fact he's clearly uncomfortable being reminded of. Intelligent, dryly sarcastic, and visibly allergic to being ordered around. He hasn't offered the full story of whatever brought him to the surface.
 
 His spellcasting has a distinctive **violet tint** to it - origin unexplained.
-
-## What He's Shared
 
 Around the campfire in [[Session 05]], pressed by the group after the Drider attack, Za'rek gave up a few real details: he's from **[[The Underdark and Tier Breche|the Underdark]]**, studied at an academy there, and was trained to read the signs and omens of **[[Lolth]]**. At some point he was shown something that forced him to flee to the surface - he didn't say what. He's been on the surface only a short while and keeps a low profile, since a drow is a rare and recognisable face up here.
 
