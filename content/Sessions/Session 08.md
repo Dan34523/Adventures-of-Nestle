@@ -18,8 +18,9 @@ The party attends the Ball of the Earth Father as Reginald Applesby's entourage,
 - Morning of the ball, [[Reginald Applesby]] knocks on the door, excited for the ball. [[Apex]] changes into his outfit, the rest wait for the manor. The party is introduced to the Count Archibald of Cuxton. Party changes into their outfits, and make their way to the ball.
 - Ball prep: weapons checked at the door, magic items inspected and (thanks to [[Morrigan]] charming the warden) kept. The party enters a lavish jungle-themed ballroom hosted by [[King Heliodar]].
 - Dance partners assigned: [[Princess Sphene]] picks [[Apex]], who ruins the moment (and the King's mood) with an improvised solo dance.
-- [[Za'rek]] quizzes **Ruko** (a ballroom worker who dislikes Precious) for gossip, loses interest fast.
-- An Exquirer from the Church of the Martyress recognises [[Morrigan]] as an apostate and tries to detain her - she escapes into the servant tunnels via a Bag of Holding smuggling job, engineered by [[Za'rek]] and [[Tuff]] under cover of a bathroom excuse.
+- [[Prince Rico LaRoche]]'s servant asks [[Althea]] to dance with the Prince; she declines, getting out of the situation by dancing with the servant instead. She later sees Rico looking at her, vexed.
+- [[Za'rek]] quizzes **[[Ruko]]** (a ballroom worker who dislikes Precious) for gossip, loses interest fast.
+- An Exquirer from the Church of the Martyress recognises [[Morrigan]] as an apostate and tries to detain her - [[Althea]]'s wolf helps cover the escape by urinating on the Exquirer's shoe, and Morrigan escapes into the servant tunnels via a Bag of Holding smuggling job, engineered by [[Za'rek]] and [[Tuff]] under cover of a bathroom excuse.
 - [[Precious]] is recognised mid-dance by a Sylvan Conclave ambassador, **Lord Glydin Seransandros** as a thief - implications unresolved.
 - Private audience with [[King Heliodar]]: he reveals his heir, [[Prince Zircon]], disappeared with a detachment and never returned, and asks the party to find him discreetly. [[Za'rek]] negotiates the terms down to a funded search-and-rescue, no strings attached. Only the King, [[Princess Sphene]], the crownsguards present, and [[Prince Rico LaRoche]] know.
 - The party accepts and returns to the barge, ready to leave for the search at first light.

@@ -20,5 +20,7 @@ Briefly banished by [[Braelex]] (in dragon form) during the confrontation over h
 
 Has a pet rat, Tesco.
 
+At the Woodland Tourney ([[Session 09]]) he lost a mud-wrestling match to [[Siggins McDiggins]] - but was convinced by [[Morrigan]] to join the party's team for the Trial of Nine. Tesco escaped during the tournament and refused to be caught until [[Za'rek]] tempted the rat with a pie.
+
 ## Session Appearances
-- [[Session 06]] · [[Session 07]]
+- [[Session 06]] · [[Session 07]] · [[Session 09]]

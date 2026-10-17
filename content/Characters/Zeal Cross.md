@@ -22,5 +22,10 @@ Found **Steel Eater**, an acid-bladed sword, in the [[Wilheim Mine Dungeon]] - i
 ## The Revenge Plot
 In [[Ruins of Morrowalk|the Brass Clan's ruined fortress]], Zeal recognised the bandit leader **[[Rodrick Brass]]** as the man responsible for burning the Cross Seekers' village and killing his people. He killed him personally with Motion-Weaver, ending years of unresolved rage.
 
+## Notes & Secrets
+- Came clean to [[Braelex]] about his child's fate once confronted; the dragon thanked the party rather than taking vengeance ([[Session 07]]).
+- Settled the rest of the Motion-Weaver debt with [[Beb Lizardman]] before the Ball of the Earth Father ([[Session 08]]).
+- Heard a debilitating shriek at the Woodland Tourney, audible only to him, that brought him to his knees ([[Session 09]]). Recovered in time to recruit **Zero**, the ranger from the [[Ruins of Morrowalk]], into the party for the Trial of Nine.
+
 ## Session Appearances
-- [[Session 01]] · [[Session 02]] · [[Session 03]] · [[Session 04]] · [[Session 05]] · [[Session 06]] · [[Session 07]] · [[Session 08]]
+- [[Session 01]] · [[Session 02]] · [[Session 03]] · [[Session 04]] · [[Session 05]] · [[Session 06]] · [[Session 07]] · [[Session 08]] · [[Session 09]]

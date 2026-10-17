@@ -5,7 +5,7 @@ tags: [item, index]
 **Owner:** [[Zeal Cross]]. An acid-bladed sword found in the [[Wilheim Mine Dungeon]]. Used to free enslaved prisoners in the [[Ruins of Morrowalk]] goldhouse and to kill the corrupted Brass Dragon (its acid blade melted through bone and brain). Zeal's signature weapon before Motion-Weaver arrived.
 
 ## Motion-Weaver
-**Owner:** [[Zeal Cross]]. An enchanted curved elven blade, previously traded in by an indebted [[Sylvan Conclave and Stryxa Centenary|Sylvan Conclave]] noble. Bought from [[Beb Lizardman]] on a 12-month payment plan at 20% interest. Speeds its wielder up with each successful strike - used to devastating effect against the Brass Clan mage and **[[Rodrick Brass]]**. Paid off prior to the Ball of the Earth Father
+**Owner:** [[Zeal Cross]]. An enchanted curved elven blade, previously traded in by an indebted [[Sylvan Conclave]] noble. Bought from [[Beb Lizardman]] on a 12-month payment plan at 20% interest. Speeds its wielder up with each successful strike - used to devastating effect against the Brass Clan mage and **[[Rodrick Brass]]**. Paid off prior to the Ball of the Earth Father
 
 ## Bracers of Well-Being
 **Owner:** [[Morrigan]]. Found in the locked armoury cabinet in the [[Wilheim Mine Dungeon]]. Amplifies her divine healing.
@@ -32,4 +32,7 @@ tags: [item, index]
 **Owner**: Everyone apart from Apex has a pair. Purchased prior to the Ball of the Earth Father. [[Precious]] found them and bought the offer back to everyone. Willing party members bought some at 100 GP each. Allows communication within 
 
 ## Repulsor Shield
-**Owner**: [[Tuff]].  Purchased prior to the Ball of the Earth Father. 
+**Owner**: [[Tuff]].  Purchased prior to the Ball of the Earth Father.
+
+## Legendary Sword
+**Owner:** Sir Simon Starkheight's squire. A legendary blade far too large for the squire to wield properly, carried into the Trial of Nine ([[Session 09]]) because the tainted pies had taken Sir Simon out of the fight. It was bought by a recent ancestor of Sir Simon at a massive price: the family's entire holdings and titles. The blade's name is unknown. 

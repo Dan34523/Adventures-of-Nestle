@@ -14,6 +14,5 @@ The campaign's central dangling plot thread. Treat this page as a living documen
 
 ## Open Questions
 - Is Morrigan's missing eye actually an Angel Eye, whether or not she knows it?
-- Does Za'rek possess or carry something that qualifies, without realising it? (His violet-tinted magic, a side effect of the failed verification sigil, is the obvious candidate.)
 - Is the [[Cult of the Chroma Queen]] still trying to build/find one after the loss of their leader and ritual site?
 - Does the strange, more-powerful magic object [[Morrigan]] secretly detected in [[Althea]]'s bag have anything to do with this?

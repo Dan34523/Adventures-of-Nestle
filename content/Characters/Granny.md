@@ -11,7 +11,7 @@ race: Human
 > **Status** | Alive
 
 ## Overview
-Apex tracked a child thief back to what he assumed would be the lair of a fearsome crime boss — and found an old woman instead. She heard out his (by now well-rehearsed) sales pitch about his own criminal past and offered a partnership: her network of child pickpockets and stolen goods, his muscle and travel plans, sold through her contact on **Silver Street** in [[Solistaire]]'s black market. Apex agreed. Now part of the [[Yakuza Family]]
+Apex tracked a child thief back to what he assumed would be the lair of a fearsome crime boss, and found an old woman instead. She heard out his (by now well-rehearsed) sales pitch about his own criminal past and offered a partnership: her network of child pickpockets and stolen goods, his muscle and travel plans, sold through her contact on **Silver Street** in [[Solistaire]]'s black market. Apex agreed. Now part of the [[Yakuza Family]]
 
 Turned out to be travelling with **[[Reginald Applesby]]'s caravan** herself. At the Cliffside Camp ([[Session 04]]), she pulled Apex aside to show him a stash of smuggled jewellery and float a new idea: robbing the rest of the party while they were distracted. Apex talked her out of it - for now.
 

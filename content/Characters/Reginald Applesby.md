@@ -18,8 +18,10 @@ Hired [[Zeal Cross]] and [[Apex]] (with near word-for-word identical flattering 
 
 Well-connected: cousin to the **Count of Cuxton**, and a useful source of political gossip, including the succession crisis within [[House LaRoche]].
 
+In [[Session 09]], [[Baron Harkwyn]] demanded a Trial of Nine over the stain on his honour, and the party agreed to fight as Reginald's champions. The trial ended with the accusers denounced and Reginald declared innocent of all charges.
+
 ## Relationship to the Party
 Consistently friendly and a reliable source of paid work; the party trusts him more than most employers so far.
 
 ## Session Appearances
-- [[Session 03]] · [[Session 04]] · [[Session 05]] · [[Session 07]] · [[Session 08]]
+- [[Session 03]] · [[Session 04]] · [[Session 05]] · [[Session 07]] · [[Session 08]] · [[Session 09]]

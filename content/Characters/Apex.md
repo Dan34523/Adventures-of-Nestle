@@ -23,5 +23,9 @@ Runs a side hustle in stolen jewellery with his [[Yakuza Family]], an elderly cr
 
 Danced with **[[Princess Sphene]]** at the Ball ([[Session 08]]) and comprehensively ruined it by improvising his own "cultural" dance mid-song, embarrassing the party and visibly angering **[[King Heliodar]]**.
 
+## Notes & Secrets
+- Growing the [[Yakuza Family]]: recruited a desperate tiefling refugee family on the road to [[Solistaire]] ([[Session 04]]), and attempted to recruit seven young men with no opportunities in the city ([[Session 08]]).
+- Killed the guide [[Biffbil Stew]] off-screen.
+
 ## Session Appearances
-- [[Session 03]] · [[Session 04]] · [[Session 05]] · [[Session 06]] · [[Session 07]] · [[Session 08]]
+- [[Session 03]] · [[Session 04]] · [[Session 05]] · [[Session 06]] · [[Session 07]] · [[Session 08]] · [[Session 09]]

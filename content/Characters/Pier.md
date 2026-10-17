@@ -20,5 +20,7 @@ Backstory: lost his love Annette to his "evil cousin" Armand the Butcher, and is
 
 Moving his bakery to Solistaire; Za'rek has been feeding him rumours (strength from his pastries, reaching the Imperial Guard captain's ear) to help drum up business, and the two are in early talks about Za'rek investing in the shop. Pier has asked Za'rek to find out where **[[Prince Rico LaRoche]]** is staying so he can send free samples.
 
+At the Woodland Tourney ([[Session 09]]), Pier ran his pastry wagon; he told [[Precious]] which tent the accusers would fight from, and the tart delivery she offered to make for him became cover for the party's tainted pies.
+
 ## Session Appearances
-- [[Session 01]] · [[Session 03]] · [[Session 05]] · [[Session 07]]
+- [[Session 01]] · [[Session 03]] · [[Session 05]] · [[Session 07]] · [[Session 09]]

@@ -20,5 +20,7 @@ His procession's carriage broke a wheel on the road to Solistaire; [[Tuff]] and 
 
 Later confirmed to be attending the Marriage Mart, seated beside [[King Heliodar]] at the Ball - and is one of only a handful of people who know about **[[Prince Zircon]]**'s disappearance and the party's mission to find him.
 
+At the Ball, his servant asked [[Althea]] to dance with him; she declined, getting out of the situation by dancing with the servant instead - and she later caught him looking at her, vexed ([[Session 08]]).
+
 ## Session Appearances
 - [[Session 05]] · [[Session 08]]

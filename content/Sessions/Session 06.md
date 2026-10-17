@@ -26,7 +26,7 @@ The party meets **[[Tarhun Turneron]]**, rescues a church under attack, and wipe
 - Assorted bandit loot from the ruins.
 
 ## Quotes & Moments
-> "I expect bandit heads and a ball invitation by the time I'm back." - Precious's note, first proof she can read and write.
+> "I expect bandit heads and a ball invitation by the time I'm back." - Precious's note.
 
 ## Open Threads for Next Time
 - Who is the hooded Drow woman, and who is her mistress?

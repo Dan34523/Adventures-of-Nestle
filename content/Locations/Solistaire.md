@@ -28,4 +28,4 @@ Walled capital of Beronay, currently hosting the **Marriage Mart** - a season of
 [[Sir Seesbury Halfbord]] · [[Beb Lizardman]] · [[King Heliodar]] · [[Princess Sphene]] · [[Prince Rico LaRoche]] · [[Reginald Applesby]]
 
 ## Session Appearances
-- [[Session 05]] · [[Session 06]] · [[Session 07]] · [[Session 08]]
+- [[Session 05]] · [[Session 06]] · [[Session 07]] · [[Session 08]] · [[Session 09]]

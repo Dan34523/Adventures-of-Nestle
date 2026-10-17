@@ -6,7 +6,7 @@ region: Kingdom of Beronay
 > **Name** | Ruins of Morrowalk
 > ---|---
 > **Type** | Ruined fortress, bandit hideout
-> **Region** | Hills off the Aloraxia–Beronay road
+> **Region** | Hills off the Aloraxia-Beronay road
 > **Controlled By** | *Destroyed* - formerly [[The Brass Clan]]
 
 ## Description
